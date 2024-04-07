@@ -86,12 +86,7 @@ const barbearia = {
     return `o valor total é ${pedido.PedidoCortePreco + pedido.pedidoBarbaPreco} reais`
   }
   
-  // console.log(calculaTotal(pedido))
-//     Atualizar serviço.
-// atualizarServico(). Esta função recebe uma lista (cortes ou barbas), o id do item a ser atualizado, o novo tipo e/ou o novo valor.
-// Caso o item não seja encontrado ou se pelo menos 1 dos novos valores for nulo, retorne: "Entrada de valores inválida". Valores vazios não são permitidos.
-
-// Acesse o índice da lista e efetue a atualização. Retorne: "Item atualizado com sucesso".
+ 
 function atualizaPedido(lista, id, tipo, valor) {
   for(let i = 0; i < lista.length; i++) {
     if(lista[i].id === id && tipo !== null && valor !== null) {

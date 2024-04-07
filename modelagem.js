@@ -1,35 +1,35 @@
-// const escola = {
-//     nome: ' ',
-//     CNPJ: 'null',
-//     Atuaçao: 'ti',
-//     Cidade: 'itz',
-//     Estado: 'ma',
-//     Logradouro: 'rua para',
-//     curso: 'cc'
-// };
+const escola = {
+    nome: ' ',
+    CNPJ: 'null',
+    Atuaçao: 'ti',
+    Cidade: 'itz',
+    Estado: 'ma',
+    Logradouro: 'rua para',
+    curso: 'cc'
+};
 
-// const pessoa = {
-//     nome: ' ',
-//     nascimento: ' ',
-//     CPF: 'ti',
-//     Cidade: 'itz',
-//     Estado: 'ma',
-//     Logradouro: 'rua para',
-// };
+const pessoa = {
+    nome: ' ',
+    nascimento: ' ',
+    CPF: 'ti',
+    Cidade: 'itz',
+    Estado: 'ma',
+    Logradouro: 'rua para',
+};
 
-// const curso = {
-//     nome: ' ',
-//     duraçao_em_anos: ' ',
-//     turma: ' ',
-//     modulos: ' '
-// };
+const curso = {
+    nome: ' ',
+    duraçao_em_anos: ' ',
+    turma: ' ',
+    modulos: ' '
+};
 
-// const endereço = {
-//     Cidade: ' ',
-//     Estado: ' ',
-//     Logradouro: ' ',
-//     Cep: ' '
-// };
+const endereço = {
+    Cidade: ' ',
+    Estado: ' ',
+    Logradouro: ' ',
+    Cep: ' '
+};
 
 const carro = {
   placa: "ABC123",
